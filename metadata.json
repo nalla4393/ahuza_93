@@ -1,0 +1,6 @@
+{
+  "name": "AHUZA – Where Fashion Meets Passion",
+  "description": "Affordable everyday and casual fashion for women and men under ₹2,000 INR. Experience 3D interactive shopping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
